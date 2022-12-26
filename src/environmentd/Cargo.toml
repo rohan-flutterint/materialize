@@ -55,7 +55,7 @@ mz-sql = { path = "../sql" }
 mz-stash = { path = "../stash" }
 mz-storage-client = { path = "../storage-client" }
 nix = "0.26.1"
-num_cpus = "1.14.0"
+num_cpus = "1.15.0"
 openssl = { version = "0.10.43", features = ["vendored"] }
 openssl-sys = { version = "0.9.80", features = ["vendored"] }
 prometheus = { version = "0.13.3", default-features = false }
